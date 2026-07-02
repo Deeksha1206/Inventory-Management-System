@@ -245,6 +245,15 @@ The application handles:
 
 # 📸 Screenshots
 
+<img width="1920" height="1080" alt="Screenshot (353)" src="https://github.com/user-attachments/assets/c62fbe8f-fed7-4be4-a18d-6ad7a05e67e6" />
+<img width="1920" height="1080" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/e64e7501-e1bb-4c83-9ba8-6de08a4f88af" />
+<img width="1920" height="1080" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/61046a6b-eed6-4600-885d-25cfc6655ccf" />
+<img width="1920" height="1080" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/4930bfe7-6250-4eb8-8a77-2765cb314809" />
+
+
+
+
+
 
 
 ---
